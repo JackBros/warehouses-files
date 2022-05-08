@@ -1,0 +1,2 @@
+# warehouses-files
+The purpose of the assignment is to program a console application in C language to obtain information about goods and warehouses, which are stored in text files. This is an extension of assignment 'warehouses-struct'. The program will filter the warehouses (by name and location) using the specified CMD switches and organize the goods in the warehouse by name or price. The result of the application is a formatted list of warehouses and goods. The purpose of the assignment is to practice working with dynamic memory and files.
